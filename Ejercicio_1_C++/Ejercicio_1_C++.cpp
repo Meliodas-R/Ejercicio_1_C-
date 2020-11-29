@@ -5,7 +5,8 @@ using namespace std;
 * 1. Mostrar por pantalla el mensaje "Hola mundo"
 * 
 */
-int main(){
+int main()
+{
 
     cout << "Hola mundo\n";
     return 0;
